@@ -1,0 +1,125 @@
+{
+    "description": "materials_low",
+    "records": {
+        "clip_resin_cured": {
+            "name": "clip_resin_cured",
+            "type": "Plastic",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/clip_resin_cured",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/clip_resin_cured",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/clip_resin_cured",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/clip_resin_cured"
+            }
+        },
+        "copper_oxydized": {
+            "name": "copper_oxydized",
+            "type": "Metal",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/copper_oxydized",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/copper_oxydized",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/copper_oxydized",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/copper_oxydized"
+            }
+        },
+        "desert_sandstone_dark": {
+            "name": "desert_sandstone_dark",
+            "type": "Stone",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/desert_sandstone_dark",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/desert_sandstone_dark",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/desert_sandstone_dark",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/desert_sandstone_dark"
+            }
+        },
+        "granite_black": {
+            "name": "granite_black",
+            "type": "Stone",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/granite_black",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/granite_black",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/granite_black",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/granite_black"
+            }
+        },
+        "granite_white": {
+            "name": "granite_white",
+            "type": "Stone",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/granite_white",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/granite_white",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/granite_white",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/granite_white"
+            }
+        },
+        "marble_green": {
+            "name": "marble_green",
+            "type": "Stone",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/marble_green",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/marble_green",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/marble_green",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/marble_green"
+            }
+        },
+        "marble_portoro_gold_clean": {
+            "name": "marble_portoro_gold_clean",
+            "type": "Stone",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/marble_portoro_gold_clean",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/marble_portoro_gold_clean",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/marble_portoro_gold_clean",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/marble_portoro_gold_clean"
+            }
+        },
+        "plastic_hammered": {
+            "name": "plastic_hammered",
+            "type": "Plastic",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/plastic_hammered",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/plastic_hammered",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/plastic_hammered",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/plastic_hammered"
+            }
+        },
+        "plastic_vinyl_glossy_red": {
+            "name": "plastic_vinyl_glossy_red",
+            "type": "Plastic",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/plastic_vinyl_glossy_red",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/plastic_vinyl_glossy_red",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/plastic_vinyl_glossy_red",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/plastic_vinyl_glossy_red"
+            }
+        },
+        "steel_corten": {
+            "name": "steel_corten",
+            "type": "Metal",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/steel_corten",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/steel_corten",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/steel_corten",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/steel_corten"
+            }
+        },
+        "travertine_persian_vein": {
+            "name": "travertine_persian_vein",
+            "type": "Stone",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/travertine_persian_vein",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/travertine_persian_vein",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/travertine_persian_vein",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/travertine_persian_vein"
+            }
+        },
+        "travertine_striata_vein_cut_honed_filled": {
+            "name": "travertine_striata_vein_cut_honed_filled",
+            "type": "Stone",
+            "urls": {
+                "Darwin": "https://tdw-public.s3.amazonaws.com/materials_low/osx/pre-2019.2/travertine_striata_vein_cut_honed_filled",
+                "Linux": "https://tdw-public.s3.amazonaws.com/materials_low/linux/pre-2019.2/travertine_striata_vein_cut_honed_filled",
+                "Windows": "https://tdw-public.s3.amazonaws.com/materials_low/windows/pre-2019.2/travertine_striata_vein_cut_honed_filled",
+                "windows": "file:///D:/transport_challenge_asset_bundles/materials_low/travertine_striata_vein_cut_honed_filled"
+            }
+        }
+    }
+}
